@@ -1,0 +1,572 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t3.inf",
+                "time": 1616012428479
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t4.inf",
+                "time": 1616012428608
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t5.inf",
+                "time": 1616012428737
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t6.inf",
+                "time": 1616012428861
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t7.inf",
+                "time": 1616012429055
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t8.inf",
+                "time": 1616012429157
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t9.inf",
+                "time": 1616012429273
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t10.inf",
+                "time": 1616012429379
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t11.inf",
+                "time": 1616012429624
+            },
+            {
+                "stepId": "STEP12",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t12.inf",
+                "time": 1616012429757
+            },
+            {
+                "stepId": "STEP13",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t13.inf",
+                "time": 1616012430085
+            },
+            {
+                "stepId": "STEP14",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t14.inf",
+                "time": 1616012430237
+            },
+            {
+                "stepId": "STEP15",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t15.inf",
+                "time": 1616012430709
+            },
+            {
+                "stepId": "STEP16",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t16.inf",
+                "time": 1616012430889
+            },
+            {
+                "stepId": "STEP17",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t17.inf",
+                "time": 1616012431252
+            },
+            {
+                "stepId": "STEP18",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t18.inf",
+                "time": 1616012431402
+            },
+            {
+                "stepId": "STEP19",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t19.inf",
+                "time": 1616012431626
+            },
+            {
+                "stepId": "STEP20",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t20.inf",
+                "time": 1616012431720
+            },
+            {
+                "stepId": "STEP21",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t21.inf",
+                "time": 1616012431855
+            },
+            {
+                "stepId": "STEP22",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t22.inf",
+                "time": 1616012431958
+            },
+            {
+                "stepId": "STEP23",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t23.inf",
+                "time": 1616012432171
+            },
+            {
+                "stepId": "STEP24",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t24.inf",
+                "time": 1616012432287
+            },
+            {
+                "stepId": "STEP25",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t25.inf",
+                "time": 1616012432412
+            },
+            {
+                "stepId": "STEP26",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t26.inf",
+                "time": 1616012432556
+            },
+            {
+                "stepId": "STEP27",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t27.inf",
+                "time": 1616012432737
+            },
+            {
+                "stepId": "STEP28",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t28.inf",
+                "time": 1616012432857
+            },
+            {
+                "stepId": "STEP29",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t29.inf",
+                "time": 1616012433150
+            },
+            {
+                "stepId": "STEP30",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t30.inf",
+                "time": 1616012433256
+            },
+            {
+                "stepId": "STEP31",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t31.inf",
+                "time": 1616012433458
+            },
+            {
+                "stepId": "STEP32",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t32.inf",
+                "time": 1616012433627
+            },
+            {
+                "stepId": "STEP33",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t33.inf",
+                "time": 1616012433723
+            },
+            {
+                "stepId": "STEP34",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t34.inf",
+                "time": 1616012434057
+            },
+            {
+                "stepId": "STEP35",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t35.inf",
+                "time": 1616012434345
+            },
+            {
+                "stepId": "STEP36",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t36.inf",
+                "time": 1616012434665
+            },
+            {
+                "stepId": "STEP37",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t37.inf",
+                "time": 1616012435036
+            },
+            {
+                "stepId": "STEP38",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t38.inf",
+                "time": 1616012435179
+            },
+            {
+                "stepId": "STEP39",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t39.inf",
+                "time": 1616012435386
+            },
+            {
+                "stepId": "STEP40",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t40.inf",
+                "time": 1616012435498
+            },
+            {
+                "stepId": "STEP41",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t41.inf",
+                "time": 1616012435633
+            },
+            {
+                "stepId": "STEP42",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t42.inf",
+                "time": 1616012435733
+            },
+            {
+                "stepId": "STEP43",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t43.inf",
+                "time": 1616012435940
+            },
+            {
+                "stepId": "STEP44",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t44.inf",
+                "time": 1616012436065
+            },
+            {
+                "stepId": "STEP45",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t45.inf",
+                "time": 1616012436192
+            },
+            {
+                "stepId": "STEP46",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t46.inf",
+                "time": 1616012436305
+            },
+            {
+                "stepId": "STEP47",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t47.inf",
+                "time": 1616012436531
+            },
+            {
+                "stepId": "STEP48",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t48.inf",
+                "time": 1616012436680
+            },
+            {
+                "stepId": "STEP49",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t49.inf",
+                "time": 1616012436792
+            },
+            {
+                "stepId": "STEP50",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t50.inf",
+                "time": 1616012436962
+            },
+            {
+                "stepId": "STEP51",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t51.inf",
+                "time": 1616012437180
+            },
+            {
+                "stepId": "STEP52",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t52.inf",
+                "time": 1616012437284
+            },
+            {
+                "stepId": "STEP53",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t53.inf",
+                "time": 1616012437660
+            },
+            {
+                "stepId": "STEP54",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t54.inf",
+                "time": 1616012437809
+            },
+            {
+                "stepId": "STEP55",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t55.inf",
+                "time": 1616012438053
+            },
+            {
+                "stepId": "STEP56",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t56.inf",
+                "time": 1616012438739
+            },
+            {
+                "stepId": "STEP57",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t57.inf",
+                "time": 1616012438837
+            },
+            {
+                "stepId": "STEP58",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t58.inf",
+                "time": 1616012438987
+            },
+            {
+                "stepId": "STEP59",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t59.inf",
+                "time": 1616012439190
+            },
+            {
+                "stepId": "STEP60",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t60.inf",
+                "time": 1616012439293
+            },
+            {
+                "stepId": "STEP61",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t61.inf",
+                "time": 1616012439442
+            },
+            {
+                "stepId": "STEP62",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t62.inf",
+                "time": 1616012439547
+            },
+            {
+                "stepId": "STEP63",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t63.inf",
+                "time": 1616012439753
+            },
+            {
+                "stepId": "STEP64",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t64.inf",
+                "time": 1616012439848
+            },
+            {
+                "stepId": "STEP65",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t65.inf",
+                "time": 1616012439993
+            },
+            {
+                "stepId": "STEP66",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t66.inf",
+                "time": 1616012440102
+            },
+            {
+                "stepId": "STEP67",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t67.inf",
+                "time": 1616012440345
+            },
+            {
+                "stepId": "STEP68",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t68.inf",
+                "time": 1616012440474
+            },
+            {
+                "stepId": "STEP69",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t69.inf",
+                "time": 1616012440581
+            },
+            {
+                "stepId": "STEP70",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t70.inf",
+                "time": 1616012440714
+            },
+            {
+                "stepId": "STEP71",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t71.inf",
+                "time": 1616012440894
+            },
+            {
+                "stepId": "STEP72",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t72.inf",
+                "time": 1616012441217
+            },
+            {
+                "stepId": "STEP73",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t73.inf",
+                "time": 1616012441356
+            },
+            {
+                "stepId": "STEP74",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t74.inf",
+                "time": 1616012441620
+            },
+            {
+                "stepId": "STEP75",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t75.inf",
+                "time": 1616012442133
+            },
+            {
+                "stepId": "STEP76",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t76.inf",
+                "time": 1616012442277
+            },
+            {
+                "stepId": "STEP77",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t77.inf",
+                "time": 1616012442495
+            },
+            {
+                "stepId": "STEP78",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t78.inf",
+                "time": 1616012442620
+            },
+            {
+                "stepId": "STEP79",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t79.inf",
+                "time": 1616012442867
+            },
+            {
+                "stepId": "STEP80",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t80.inf",
+                "time": 1616012443025
+            },
+            {
+                "stepId": "STEP81",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t81.inf",
+                "time": 1616012443132
+            },
+            {
+                "stepId": "STEP82",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t82.inf",
+                "time": 1616012443266
+            },
+            {
+                "stepId": "STEP83",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t83.inf",
+                "time": 1616012443449
+            },
+            {
+                "stepId": "STEP84",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t84.inf",
+                "time": 1616012443548
+            },
+            {
+                "stepId": "STEP85",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t85.inf",
+                "time": 1616012443665
+            },
+            {
+                "stepId": "STEP86",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t86.inf",
+                "time": 1616012443785
+            },
+            {
+                "stepId": "STEP87",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t87.inf",
+                "time": 1616012444009
+            },
+            {
+                "stepId": "STEP88",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t88.inf",
+                "time": 1616012444111
+            },
+            {
+                "stepId": "STEP89",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t89.inf",
+                "time": 1616012444253
+            },
+            {
+                "stepId": "STEP90",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t90.inf",
+                "time": 1616012444355
+            },
+            {
+                "stepId": "STEP91",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t91.inf",
+                "time": 1616012444812
+            },
+            {
+                "stepId": "STEP92",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t92.inf",
+                "time": 1616012444928
+            },
+            {
+                "stepId": "STEP93",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t93.inf",
+                "time": 1616012445084
+            },
+            {
+                "stepId": "STEP94",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t94.inf",
+                "time": 1616012445438
+            },
+            {
+                "stepId": "STEP95",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t95.inf",
+                "time": 1616012445659
+            },
+            {
+                "stepId": "STEP96",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t96.inf",
+                "time": 1616012445783
+            }
+        ],
+        "transactions": []
+    }
+]

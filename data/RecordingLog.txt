@@ -1,0 +1,291 @@
+[API Trapper      (2600:4ee4)] Recording in 64-bit mode: C:\Program Files\Internet Explorer\IEXPLORE.EXE
+[API Trapper      (53e4:33c8)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+[Network Analyzer (53e4:50e0)] ------------------------------------------------------------------------------------------
+[Network Analyzer (53e4:50e0)] Load Network Traffic Analyzers:
+[Network Analyzer (53e4:50e0)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (53e4:50e0)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer (53e4:50e0)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (53e4:50e0)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer (53e4:50e0)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer (53e4:50e0)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (53e4:50e0)]     Analyzer Module: local_server (value=)
+[Network Analyzer (53e4:50e0)] ------------------------------------------------------------------------------------------
+[Network Analyzer (53e4:3080)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Net An. Debug    (53e4:3080)] IP address belongs to the VirtualBox, taking the another interface with ip=192.168.1.3
+[Net An. Warning  (53e4:5e58)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (53e4:50e0)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (53e4:5e58)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (53e4:50e0)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (53e4:50e0)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (53e4:50e0)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (53e4:5e58)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (53e4:5e58)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (53e4:3244)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (53e4:50e0)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (53e4:3244)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  1)  PROXIED!
+[Web Request      (53e4:3080)] "GET /Webtours/"   
+[Network Analyzer (53e4:3080)]   (Sid:  1) Client -> Server @ : 270 bytes (Service=HTTP)
+[Network Analyzer (53e4:50e0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (53e4:3080)]   (Sid:  1) Server -> Client : 903 bytes  (Service=HTTP)
+[Network Analyzer (53e4:5e58)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (53e4:50e0)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (53e4:5e58)] Request Connection: Remote Server @ 185.85.13.154:80   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (53e4:50e0)] Request Connection: Remote Server @ 185.85.13.154:80   (Service=)  (Sid=  4)  PROXIED!
+[Web Request      (53e4:3080)] "GET /Webtours/header.html"   
+[Network Analyzer (53e4:3080)]   (Sid:  1) Client -> Server @ : 323 bytes (Service=HTTP)
+[Network Analyzer (53e4:3080)]   (Sid:  1) Server -> Client : 1247 bytes  (Service=HTTP)
+[Web Request      (53e4:3080)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (53e4:3080)]   (Sid:  2) Client -> Server @ : 334 bytes (Service=HTTP)
+[Web Request      (53e4:3080)] "GET /Webtours/images/hp_logo.png"   
+[Network Analyzer (53e4:3080)]   (Sid:  1) Client -> Server @ : 354 bytes (Service=HTTP)
+[Network Analyzer (53e4:3080)]   (Sid:  1) Server -> Client : 898 bytes  (Service=HTTP)
+[Network Analyzer (53e4:5e58)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Web Request      (53e4:3080)] "GET /Webtours/images/webtours.png"   
+[Network Analyzer (53e4:3080)]   (Sid:  1) Client -> Server @ : 355 bytes (Service=HTTP)
+[Network Analyzer (53e4:5e58)] Request Connection: Remote Server @ 185.85.13.154:80   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (53e4:3080)]   (Sid:  1) Server -> Client : 4487 bytes  (Service=HTTP)
+[Network Analyzer (53e4:3c0c)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (53e4:3c0c)] Request Connection: Remote Server @ 185.85.13.154:80   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (53e4:3080)]   (Sid:  2) Server -> Client : 1332 bytes  (Service=HTTP)
+[Network Analyzer (53e4:50e0)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (53e4:3c0c)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (53e4:3c0c)] Request Connection: Remote Server @ 185.85.13.154:80   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (53e4:50e0)] Request Connection: Remote Server @ 185.85.13.154:80   (Service=)  (Sid=  8)  PROXIED!
+[Web Request      (53e4:3080)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (53e4:3080)]   (Sid:  2) Client -> Server @ : 421 bytes (Service=HTTP)
+[Web Request      (53e4:3080)] "GET /WebTours/home.html"   
+[Network Analyzer (53e4:3080)]   (Sid:  1) Client -> Server @ : 417 bytes (Service=HTTP)
+[Network Analyzer (53e4:3080)]   (Sid:  1) Server -> Client : 1899 bytes  (Service=HTTP)
+[Network Analyzer (53e4:3c0c)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (53e4:50e0)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (53e4:3c0c)] Request Connection: Remote Server @ 185.85.13.154:80   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (53e4:50e0)] Request Connection: Remote Server @ 185.85.13.154:80   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (53e4:3080)]   (Sid:  2) Server -> Client : 1994 bytes  (Service=HTTP)
+[Web Request      (53e4:3080)] "GET /WebTours/images/mer_login.gif"   
+[Network Analyzer (53e4:3080)]   (Sid:  2) Client -> Server @ : 432 bytes (Service=HTTP)
+[Network Analyzer (53e4:3080)]   (Sid:  2) Server -> Client : 976 bytes  (Service=HTTP)
+[Web Request      (53e4:3080)] "GET /favicon.ico"   
+[Network Analyzer (53e4:3080)]   (Sid:  2) Client -> Server @ : 277 bytes (Service=HTTP)
+[Network Analyzer (53e4:3080)]   (Sid:  2) Server -> Client : 424 bytes  (Service=HTTP)
+[Network Analyzer (53e4:3080)]   (Sid:  1) Connection Terminated (by Server)
+[Network Analyzer (53e4:3080)]   (Sid:  2) Connection Terminated (by Server)
+[Network Analyzer (53e4:50e0)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (53e4:5e58)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (53e4:50e0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (53e4:5e58)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 12)  PROXIED!
+[Web Request      (53e4:3080)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (53e4:3080)]   (Sid: 11) Client -> Server @ : 622 bytes (Service=HTTP)
+[Network Analyzer (53e4:3080)]   (Sid: 11) Server -> Client : 1091 bytes  (Service=HTTP)
+[Web Request      (53e4:3080)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (53e4:3080)]   (Sid: 11) Client -> Server @ : 526 bytes (Service=HTTP)
+[Web Request      (53e4:3080)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (53e4:3080)]   (Sid: 12) Client -> Server @ : 521 bytes (Service=HTTP)
+[Network Analyzer (53e4:3080)]   (Sid:  9) Connection Terminated (by Client)
+[Network Analyzer (53e4:3080)]   (Sid: 10) Connection Terminated (by Client)
+[Network Analyzer (53e4:5e58)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (53e4:50e0)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (53e4:5e58)] Request Connection: Remote Server @ 185.85.13.154:80   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (53e4:50e0)] Request Connection: Remote Server @ 185.85.13.154:80   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (53e4:3080)]   (Sid: 11) Server -> Client : 2009 bytes  (Service=HTTP)
+[Web Request      (53e4:3080)] "GET /WebTours/images/flights.gif"   
+[Network Analyzer (53e4:3080)]   (Sid: 11) Client -> Server @ : 550 bytes (Service=HTTP)
+[Network Analyzer (53e4:3080)]   (Sid: 12) Server -> Client : 1419 bytes  (Service=HTTP)
+[Network Analyzer (53e4:5e58)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (53e4:50e0)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (53e4:3c0c)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (53e4:5e58)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 15)  PROXIED!
+[Web Request      (53e4:3080)] "GET /WebTours/images/itinerary.gif"   
+[Network Analyzer (53e4:3080)]   (Sid: 15) Client -> Server @ : 552 bytes (Service=HTTP)
+[Network Analyzer (53e4:50e0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (53e4:3080)]   (Sid: 11) Server -> Client : 1023 bytes  (Service=HTTP)
+[Network Analyzer (53e4:3c0c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 17)  PROXIED!
+[Web Request      (53e4:3080)] "GET /WebTours/images/in_home.gif"   
+[Network Analyzer (53e4:3080)]   (Sid: 12) Client -> Server @ : 550 bytes (Service=HTTP)
+[Network Analyzer (53e4:3080)]   (Sid: 15) Server -> Client : 1031 bytes  (Service=HTTP)
+[Network Analyzer (53e4:3080)]   (Sid: 12) Server -> Client : 985 bytes  (Service=HTTP)
+[Web Request      (53e4:3080)] "GET /WebTours/images/signoff.gif"   
+[Network Analyzer (53e4:3080)]   (Sid: 16) Client -> Server @ : 550 bytes (Service=HTTP)
+[Network Analyzer (53e4:3080)]   (Sid: 16) Server -> Client : 1050 bytes  (Service=HTTP)
+[Network Analyzer (53e4:3080)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer (53e4:3244)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (53e4:3244)] Request Connection: Remote Server @ 185.85.13.154:80   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (53e4:3080)]   (Sid: 11) Connection Terminated (by Server)
+[Network Analyzer (53e4:3080)]   (Sid: 15) Connection Terminated (by Server)
+[Network Analyzer (53e4:3080)]   (Sid: 12) Connection Terminated (by Server)
+[Network Analyzer (53e4:3080)]   (Sid: 16) Connection Terminated (by Server)
+[Network Analyzer (2600:3864)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2600:3864)] Load Network Traffic Analyzers:
+[Network Analyzer (2600:3864)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (2600:3864)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (2600:3864)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (2600:3864)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (2600:3864)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (2600:3864)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (2600:3864)]     Analyzer Module: local_server (value=)
+[Network Analyzer (2600:3864)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2600:1ad8)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Net An. Debug    (2600:1ad8)] IP address belongs to the VirtualBox, taking the another interface with ip=192.168.1.3
+[Network Analyzer (2600:2944)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (2600:5dbc)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (2600:2944)] Request Connection: Remote Server @ 152.199.19.161:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (2600:5dbc)] Request Connection: Remote Server @ 152.199.19.161:443   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (2600:5994)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2600:5994)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2600:3984)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2600:3984)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Web Request      (2600:1ad8)] "GET /IE11/1478281996/iecompatviewlist.xml"   
+[Network Analyzer (2600:1ad8)]   (Sid:  1) Client -> Server @ : 447 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2600:1ad8)]   (Sid:  1) Server -> Client : 479 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2600:1ad8)]   (Sid:  1) Server -> Client : 16383 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2600:1ad8)]   (Sid:  1) Server -> Client : 9612 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2600:1f7c)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (2600:3864)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (2600:3864)] Request Connection: Remote Server @ 13.80.7.77:443   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (2600:1f7c)] Request Connection: Remote Server @ 13.80.7.77:443   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (2600:3298)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2600:3298)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2600: af8)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2600: af8)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (53e4:3080)]   (Sid: 18) Connection Terminated (by Client)
+[Network Analyzer (53e4:50e0)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (53e4:50e0)] Request Connection: Remote Server @ 185.85.13.154:80   (Service=)  (Sid= 19)  PROXIED!
+[Web Request      (2600:1ad8)] "GET /l1.dat?v=3&cv=9.11.18362.0&os=10.0.18363.0.0&pg=4A72F430-B40C-4D36-A068-CE33ADA5ADF9"   
+[Network Analyzer (2600:1ad8)]   (Sid:  3) Client -> Server @ : 492 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2600:1ad8)]   (Sid:  3) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2600:1ad8)]   (Sid:  3) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2600:1ad8)]   (Sid:  3) Server -> Client : 3053 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2600:1ad8)]   (Sid:  3) Connection Terminated (by Server)
+[Network Analyzer (53e4:3080)]   (Sid: 19) Connection Terminated (by Client)
+[Network Analyzer (53e4:3244)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (53e4:3244)] Request Connection: Remote Server @ 185.85.13.154:80   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (53e4:3080)]   (Sid: 20) Connection Terminated (by Client)
+[Network Analyzer (53e4:3244)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (53e4:3244)] Request Connection: Remote Server @ 185.85.13.154:80   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (53e4:3080)]   (Sid: 21) Connection Terminated (by Client)
+[Network Analyzer (53e4:3244)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (53e4:3244)] Request Connection: Remote Server @ 185.85.13.154:80   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer (2600:3864)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (2600:1f7c)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (2600:3864)] Request Connection: Remote Server @ 204.79.197.200:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (2600:1f7c)] Request Connection: Remote Server @ 204.79.197.200:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (2600:1f38)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2600:1f38)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2600:35ec)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2600:35ec)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Web Request      (2600:1ad8)] "GET /iedomainsuggestions/ie11/suggestions.ru-RU"   
+[Network Analyzer (2600:1ad8)]   (Sid:  5) Client -> Server @ : 453 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2600:1ad8)]   (Sid:  5) Server -> Client : 2136 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2600:1ad8)]   (Sid:  5) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2600:1ad8)]   (Sid:  5) Server -> Client : 6997 bytes (SSL) (Service=HTTP)
+[Web Request      (2600:1ad8)] "GET /ieflipahead/ie10/rules.xml?mkt=ru-RU"   
+[Network Analyzer (2600:1ad8)]   (Sid:  5) Client -> Server @ : 489 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2600:1ad8)]   (Sid:  5) Server -> Client : 4015 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2600:1ad8)]   (Sid:  5) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2600:1ad8)]   (Sid:  5) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2600:1ad8)]   (Sid:  5) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2600:1ad8)]   (Sid:  5) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2600:1ad8)]   (Sid:  5) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2600:1ad8)]   (Sid:  5) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2600:1ad8)]   (Sid:  5) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2600:1ad8)]   (Sid:  5) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2600:1ad8)]   (Sid:  5) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2600:1ad8)]   (Sid:  5) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2600:1ad8)]   (Sid:  5) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2600:1ad8)]   (Sid:  5) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2600:1ad8)]   (Sid:  5) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2600:1ad8)]   (Sid:  5) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2600:1ad8)]   (Sid:  5) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2600:1ad8)]   (Sid:  5) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2600:1ad8)]   (Sid:  5) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2600:1ad8)]   (Sid:  5) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2600:1ad8)]   (Sid:  5) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2600:1ad8)]   (Sid:  5) Server -> Client : 1485 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2600:1f7c)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (2600:3864)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (2600:3864)] Request Connection: Remote Server @ 2.16.212.108:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (2600:1f7c)] Request Connection: Remote Server @ 2.16.212.108:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (2600:5c54)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2600:5c54)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2600:4554)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2600:4554)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Web Request      (2600:1ad8)] "GET /fwlink/?LinkID=401135"   
+[Network Analyzer (2600:1ad8)]   (Sid:  7) Client -> Server @ : 468 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2600:1ad8)]   (Sid:  7) Server -> Client : 488 bytes (SSL) (Service=HTTP)
+[Web Request      (2600:1ad8)] "GET /s/iess/instrument19.cer"   
+[Network Analyzer (2600:1ad8)]   (Sid:  5) Client -> Server @ : 476 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2600:1ad8)]   (Sid:  5) Server -> Client : 1978 bytes (SSL) (Service=HTTP)
+[Network Analyzer (53e4:3080)]   (Sid: 22) Connection Terminated (by Client)
+[Network Analyzer (2600:1ad8)]   (Sid:  2) Connection Terminated (by Server)
+[Network Analyzer (2600:1ad8)]   (Sid:  8) Connection Terminated (by Server)
+[Network Analyzer (53e4:5e58)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (53e4:5e58)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 23)  PROXIED!
+[Web Request      (53e4:3080)] "GET /cgi-bin/welcome.pl?page=search"   
+[Network Analyzer (53e4:3080)]   (Sid: 23) Client -> Server @ : 540 bytes (Service=HTTP)
+[Network Analyzer (53e4:3080)]   (Sid: 23) Server -> Client : 1104 bytes  (Service=HTTP)
+[Network Analyzer (53e4:3080)]   (Sid: 17) Connection Terminated (by Client)
+[Network Analyzer (53e4:3c0c)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (53e4:3c0c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer (53e4:3080)]   (Sid: 13) Connection Terminated (by Client)
+[Network Analyzer (53e4:3080)]   (Sid: 14) Connection Terminated (by Client)
+[Web Request      (53e4:3080)] "GET /cgi-bin/nav.pl?page=menu&in=flights"   
+[Network Analyzer (53e4:3080)]   (Sid: 23) Client -> Server @ : 543 bytes (Service=HTTP)
+[Web Request      (53e4:3080)] "GET /cgi-bin/reservations.pl?page=welcome"   
+[Network Analyzer (53e4:3080)]   (Sid: 24) Client -> Server @ : 544 bytes (Service=HTTP)
+[Network Analyzer (53e4:3c0c)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (53e4:5e58)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (53e4:3c0c)] Request Connection: Remote Server @ 185.85.13.154:80   (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer (53e4:5e58)] Request Connection: Remote Server @ 185.85.13.154:80   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer (53e4:3080)]   (Sid: 23) Server -> Client : 2009 bytes  (Service=HTTP)
+[Web Request      (53e4:3080)] "GET /WebTours/images/in_flights.gif"   
+[Network Analyzer (53e4:3080)]   (Sid: 23) Client -> Server @ : 556 bytes (Service=HTTP)
+[Network Analyzer (53e4:3080)]   (Sid: 24) Server -> Client : 4775 bytes  (Service=HTTP)
+[Network Analyzer (53e4:5e58)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (53e4:5e58)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer (53e4:3080)]   (Sid: 23) Server -> Client : 1023 bytes  (Service=HTTP)
+[Web Request      (53e4:3080)] "GET /WebTours/images/home.gif"   
+[Network Analyzer (53e4:3080)]   (Sid: 27) Client -> Server @ : 550 bytes (Service=HTTP)
+[Network Analyzer (53e4:3080)]   (Sid: 27) Server -> Client : 986 bytes  (Service=HTTP)
+[Network Analyzer (53e4:5e58)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Web Request      (53e4:3080)] "GET /WebTours/images/button_next.gif"   
+[Network Analyzer (53e4:3080)]   (Sid: 27) Client -> Server @ : 558 bytes (Service=HTTP)
+[Network Analyzer (53e4:5e58)] Request Connection: Remote Server @ 185.85.13.154:80   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer (53e4:3080)]   (Sid: 27) Server -> Client : 1056 bytes  (Service=HTTP)
+[Web Request      (53e4:3080)] "GET /WebTours/classes/"   
+[Network Analyzer (53e4:3080)]   (Sid: 27) Client -> Server @ : 528 bytes (Service=HTTP)
+[Network Analyzer (53e4:3080)]   (Sid: 27) Server -> Client : 673 bytes  (Service=HTTP)
+[Web Request      (53e4:3080)] "GET /WebTours/classes/"   
+[Network Analyzer (53e4:3080)]   (Sid: 27) Client -> Server @ : 528 bytes (Service=HTTP)
+[Network Analyzer (53e4:3080)]   (Sid: 27) Server -> Client : 673 bytes  (Service=HTTP)
+[Network Analyzer (53e4:3080)]   (Sid: 23) Connection Terminated (by Server)
+[Network Analyzer (53e4:3080)]   (Sid: 24) Connection Terminated (by Server)
+[Network Analyzer (53e4:3080)]   (Sid: 27) Connection Terminated (by Server)
+[Network Analyzer (2600:1ad8)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer (2600:1ad8)]   (Sid:  1) Connection Terminated (by Client)
+[Network Analyzer (2600:1ad8)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer (53e4:3080)]   (Sid: 28) Connection Terminated (by Client)
+[Network Analyzer (53e4:3244)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (53e4:5e58)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (53e4:3244)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 29)  PROXIED!
+[Network Analyzer (53e4:5e58)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 30)  PROXIED!
+[Web Request      (53e4:3080)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (53e4:3080)]   (Sid: 29) Client -> Server @ : 874 bytes (Service=HTTP)
+[Network Analyzer (53e4:3080)]   (Sid: 29) Server -> Client : 2953 bytes  (Service=HTTP)
+[Web Request      (53e4:3080)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (53e4:3080)]   (Sid: 29) Client -> Server @ : 763 bytes (Service=HTTP)
+[Network Analyzer (53e4:3080)]   (Sid: 29) Server -> Client : 3204 bytes  (Service=HTTP)
+[Network Analyzer (53e4:3080)]   (Sid: 29) Connection Terminated (by Server)
+[Network Analyzer (2600:1ad8)]   (Sid:  5) Connection Terminated (by Server)
+[Network Analyzer (53e4:3080)]   (Sid: 30) Connection Terminated (by Client)
+[Network Analyzer (53e4:50e0)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (53e4:5e58)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (53e4:3244)] Address lookup for DESKTOP-UHCG7Q0 = 192.168.56.1
+[Network Analyzer (53e4:50e0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 31)  PROXIED!
+[Network Analyzer (53e4:5e58)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 32)  PROXIED!
+[Network Analyzer (53e4:3244)] Request Connection: Remote Server @ 185.85.13.154:80   (Service=)  (Sid= 33)  PROXIED!
+[Web Request      (53e4:3080)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (53e4:3080)]   (Sid: 31) Client -> Server @ : 950 bytes (Service=HTTP)
+[Network Analyzer (53e4:3080)]   (Sid: 31) Server -> Client : 3100 bytes  (Service=HTTP)
+[Web Request      (53e4:3080)] "GET /WebTours/images/bookanother.gif"   
+[Network Analyzer (53e4:3080)]   (Sid: 31) Client -> Server @ : 521 bytes (Service=HTTP)
+[Network Analyzer (53e4:3080)]   (Sid: 31) Server -> Client : 1103 bytes  (Service=HTTP)
+[Network Analyzer (53e4:3080)]   (Sid: 31) Connection Terminated (by Server)

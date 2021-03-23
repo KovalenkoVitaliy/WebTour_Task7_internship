@@ -1,0 +1,17 @@
+[t3]
+FileName1=t3_iecompatviewlist.xml
+URL1=https://iecvlist.microsoft.com/IE11/1478281996/iecompatviewlist.xml
+Total=4
+ContentType=text/xml
+SnapshotXmlFile=snapshot_3.xml
+RequestHeaderFile=t3_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t3_ResponseHeader.txt
+FileName2=t3_l1.html
+URL2=https://c.urs.microsoft.com/l1.dat?v=3&cv=9.11.18362.0&os=10.0.18363.0.0&pg=4A72F430-B40C-4D36-A068-CE33ADA5ADF9
+FileName3=t3_suggestions.html
+URL3=https://ieonline.microsoft.com/iedomainsuggestions/ie11/suggestions.ru-RU
+FileName4=t3_rules.xml
+URL4=https://ieonline.microsoft.com/ieflipahead/ie10/rules.xml?mkt=ru-RU
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,194 @@
+Action.c(43): Podydok choosen ticket is: 1
+Action.c(92): Price of current ticket is: 327
+Action.c(94): Ostatok deneg na rykax: 6673
+Action.c(152): Number of bought mine tickets: 1
+Action.c(153): Departure City: Los Angeles
+Action.c(154): Arrive City: Seattle
+Action.c(155): Cost ticket OUT: 370;327;05/06/2020
+Action.c(156): Seating Preference: Aisle
+Action.c(157): Type of Seat: First
+Action.c(158): -------------------------------------------------------------
+Action.c(43): Podydok choosen ticket is: 1
+Action.c(92): Price of current ticket is: 365
+Action.c(94): Ostatok deneg na rykax: 6308
+Action.c(152): Number of bought mine tickets: 2
+Action.c(153): Departure City: Los Angeles
+Action.c(154): Arrive City: Denver
+Action.c(155): Cost ticket OUT: 300;365;05/06/2020
+Action.c(156): Seating Preference: Aisle
+Action.c(157): Type of Seat: Business
+Action.c(158): -------------------------------------------------------------
+Action.c(43): Podydok choosen ticket is: 1
+Action.c(92): Price of current ticket is: 582
+Action.c(94): Ostatok deneg na rykax: 5726
+Action.c(152): Number of bought mine tickets: 3
+Action.c(153): Departure City: Los Angeles
+Action.c(154): Arrive City: Zurich
+Action.c(155): Cost ticket OUT: 390;582;05/06/2020
+Action.c(156): Seating Preference: Aisle
+Action.c(157): Type of Seat: Business
+Action.c(158): -------------------------------------------------------------
+Action.c(43): Podydok choosen ticket is: 1
+Action.c(92): Price of current ticket is: 424
+Action.c(94): Ostatok deneg na rykax: 5302
+Action.c(152): Number of bought mine tickets: 4
+Action.c(153): Departure City: Los Angeles
+Action.c(154): Arrive City: Frankfurt
+Action.c(155): Cost ticket OUT: 310;424;05/06/2020
+Action.c(156): Seating Preference: None
+Action.c(157): Type of Seat: First
+Action.c(158): -------------------------------------------------------------
+Action.c(43): Podydok choosen ticket is: 1
+Action.c(92): Price of current ticket is: 87
+Action.c(94): Ostatok deneg na rykax: 5215
+Action.c(152): Number of bought mine tickets: 5
+Action.c(153): Departure City: Los Angeles
+Action.c(154): Arrive City: San Francisco
+Action.c(155): Cost ticket OUT: 360;87;05/06/2020
+Action.c(156): Seating Preference: None
+Action.c(157): Type of Seat: Business
+Action.c(158): -------------------------------------------------------------
+Action.c(43): Podydok choosen ticket is: 1
+Action.c(92): Price of current ticket is: 438
+Action.c(94): Ostatok deneg na rykax: 4777
+Action.c(152): Number of bought mine tickets: 6
+Action.c(153): Departure City: Los Angeles
+Action.c(154): Arrive City: Paris
+Action.c(155): Cost ticket OUT: 340;438;05/06/2020
+Action.c(156): Seating Preference: None
+Action.c(157): Type of Seat: Coach
+Action.c(158): -------------------------------------------------------------
+Action.c(43): Podydok choosen ticket is: 1
+Action.c(92): Price of current ticket is: 251
+Action.c(94): Ostatok deneg na rykax: 4526
+Action.c(152): Number of bought mine tickets: 7
+Action.c(153): Departure City: Los Angeles
+Action.c(154): Arrive City: Denver
+Action.c(155): Cost ticket OUT: 300;251;05/06/2020
+Action.c(156): Seating Preference: None
+Action.c(157): Type of Seat: Coach
+Action.c(158): -------------------------------------------------------------
+Action.c(43): Podydok choosen ticket is: 1
+Action.c(92): Price of current ticket is: 328
+Action.c(94): Ostatok deneg na rykax: 4198
+Action.c(152): Number of bought mine tickets: 8
+Action.c(153): Departure City: Los Angeles
+Action.c(154): Arrive City: Frankfurt
+Action.c(155): Cost ticket OUT: 310;328;05/06/2020
+Action.c(156): Seating Preference: Window
+Action.c(157): Type of Seat: Business
+Action.c(158): -------------------------------------------------------------
+Action.c(43): Podydok choosen ticket is: 1
+Action.c(92): Price of current ticket is: 1121
+Action.c(94): Ostatok deneg na rykax: 3077
+Action.c(152): Number of bought mine tickets: 9
+Action.c(153): Departure City: Los Angeles
+Action.c(154): Arrive City: London
+Action.c(155): Cost ticket OUT: 320;1121;05/06/2020
+Action.c(156): Seating Preference: Window
+Action.c(157): Type of Seat: Business
+Action.c(158): -------------------------------------------------------------
+Action.c(43): Podydok choosen ticket is: 1
+Action.c(92): Price of current ticket is: 113
+Action.c(94): Ostatok deneg na rykax: 2964
+Action.c(152): Number of bought mine tickets: 10
+Action.c(153): Departure City: Los Angeles
+Action.c(154): Arrive City: San Francisco
+Action.c(155): Cost ticket OUT: 360;113;05/06/2020
+Action.c(156): Seating Preference: None
+Action.c(157): Type of Seat: First
+Action.c(158): -------------------------------------------------------------
+Action.c(43): Podydok choosen ticket is: 1
+Action.c(92): Price of current ticket is: 424
+Action.c(94): Ostatok deneg na rykax: 2540
+Action.c(152): Number of bought mine tickets: 11
+Action.c(153): Departure City: Los Angeles
+Action.c(154): Arrive City: Frankfurt
+Action.c(155): Cost ticket OUT: 310;424;05/06/2020
+Action.c(156): Seating Preference: None
+Action.c(157): Type of Seat: First
+Action.c(158): -------------------------------------------------------------
+Action.c(43): Podydok choosen ticket is: 1
+Action.c(92): Price of current ticket is: 401
+Action.c(94): Ostatok deneg na rykax: 2139
+Action.c(152): Number of bought mine tickets: 12
+Action.c(153): Departure City: Los Angeles
+Action.c(154): Arrive City: Zurich
+Action.c(155): Cost ticket OUT: 390;401;05/06/2020
+Action.c(156): Seating Preference: Window
+Action.c(157): Type of Seat: Coach
+Action.c(158): -------------------------------------------------------------
+Action.c(43): Podydok choosen ticket is: 1
+Action.c(92): Price of current ticket is: 365
+Action.c(94): Ostatok deneg na rykax: 1774
+Action.c(152): Number of bought mine tickets: 13
+Action.c(153): Departure City: Los Angeles
+Action.c(154): Arrive City: Denver
+Action.c(155): Cost ticket OUT: 300;365;05/06/2020
+Action.c(156): Seating Preference: None
+Action.c(157): Type of Seat: Business
+Action.c(158): -------------------------------------------------------------
+Action.c(43): Podydok choosen ticket is: 1
+Action.c(92): Price of current ticket is: 287
+Action.c(94): Ostatok deneg na rykax: 1487
+Action.c(152): Number of bought mine tickets: 14
+Action.c(153): Departure City: Los Angeles
+Action.c(154): Arrive City: Portland
+Action.c(155): Cost ticket OUT: 350;287;05/06/2020
+Action.c(156): Seating Preference: Aisle
+Action.c(157): Type of Seat: Business
+Action.c(158): -------------------------------------------------------------
+Action.c(43): Podydok choosen ticket is: 1
+Action.c(92): Price of current ticket is: 327
+Action.c(94): Ostatok deneg na rykax: 1160
+Action.c(152): Number of bought mine tickets: 15
+Action.c(153): Departure City: Los Angeles
+Action.c(154): Arrive City: Seattle
+Action.c(155): Cost ticket OUT: 370;327;05/06/2020
+Action.c(156): Seating Preference: Window
+Action.c(157): Type of Seat: First
+Action.c(158): -------------------------------------------------------------
+Action.c(43): Podydok choosen ticket is: 1
+Action.c(92): Price of current ticket is: 253
+Action.c(94): Ostatok deneg na rykax: 907
+Action.c(152): Number of bought mine tickets: 16
+Action.c(153): Departure City: Los Angeles
+Action.c(154): Arrive City: Seattle
+Action.c(155): Cost ticket OUT: 370;253;05/06/2020
+Action.c(156): Seating Preference: Aisle
+Action.c(157): Type of Seat: Business
+Action.c(158): -------------------------------------------------------------
+Action.c(43): Podydok choosen ticket is: 1
+Action.c(92): Price of current ticket is: 226
+Action.c(94): Ostatok deneg na rykax: 681
+Action.c(152): Number of bought mine tickets: 17
+Action.c(153): Departure City: Los Angeles
+Action.c(154): Arrive City: Frankfurt
+Action.c(155): Cost ticket OUT: 310;226;05/06/2020
+Action.c(156): Seating Preference: Aisle
+Action.c(157): Type of Seat: Coach
+Action.c(158): -------------------------------------------------------------
+Action.c(43): Podydok choosen ticket is: 1
+Action.c(92): Price of current ticket is: 424
+Action.c(94): Ostatok deneg na rykax: 257
+Action.c(152): Number of bought mine tickets: 18
+Action.c(153): Departure City: Los Angeles
+Action.c(154): Arrive City: Frankfurt
+Action.c(155): Cost ticket OUT: 310;424;05/06/2020
+Action.c(156): Seating Preference: Aisle
+Action.c(157): Type of Seat: First
+Action.c(158): -------------------------------------------------------------
+Action.c(43): Podydok choosen ticket is: 1
+Action.c(92): Price of current ticket is: 226
+Action.c(94): Ostatok deneg na rykax: 31
+Action.c(152): Number of bought mine tickets: 19
+Action.c(153): Departure City: Los Angeles
+Action.c(154): Arrive City: Frankfurt
+Action.c(155): Cost ticket OUT: 310;226;05/06/2020
+Action.c(156): Seating Preference: Aisle
+Action.c(157): Type of Seat: Coach
+Action.c(158): -------------------------------------------------------------
+Action.c(43): Podydok choosen ticket is: 1
+Action.c(92): Price of current ticket is: 401
+Action.c(94): Ostatok deneg na rykax: -370
+Vuser Terminated.

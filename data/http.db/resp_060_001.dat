@@ -1,0 +1,21 @@
+353
+<!-- 
+ User wants the intineraries.  Since user has already logged on,
+ we can give them the menu in the navbar.
+ --->
+
+<html>
+<title>Web Tours</title>
+   <!-- Frame Set -->
+   <script type="text/javascript" src="http://ie.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=Gc4j8U_0TOfXg2fNWoOCfiX11luPu6pQ3i9tadnD1KWwjAFmRt33YDSdIxhXZY9d9QaZVUVs7RvazXEIgQNpotW5R9gDKZauHrK4zv8Gpyw" charset="UTF-8"></script><frameset cols="160,*" border="1" frameborder="1">
+      <!-- Navigation Frame -->
+      <frame src="nav.pl?page=menu&in=itinerary" name="navbar" 
+            marginheight="2" marginwidth="2" noresize="noresize" scrolling="auto"/>
+      <!-- Itinerary Frame -->
+      <frame src="itinerary.pl" name="info" 
+            marginheight="2" marginwidth="2" noresize="noresize" scrolling="auto"/>
+   </frameset>
+</html>
+
+0
+

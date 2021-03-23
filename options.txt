@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Admin\Desktop\Задачи стажировки\WebTour_Task7_internship
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\admin\desktop\задачи стажировки\webtour_task7_internship\\logfile.log
+c:\users\admin\desktop\задачи стажировки\webtour_task7_internship\\combined_WebTour_Task7_internship.c
+c:\users\admin\desktop\задачи стажировки\webtour_task7_internship\\pre_cci.c
